@@ -1,13 +1,4 @@
 # Aptos Move Smart Contract Project
-Here is a **complete, end-to-end `README.md`** you can use as-is for your Aptos Move project.
-It covers **installation, VS Code usage, project structure, build, test, publish, troubleshooting, and security**.
-
-Copy this **entire file** into `README.md` in your project root.
-
----
-
-```md
-# Aptos Move Smart Contract Project
 
 This repository contains a **Move smart contract project** built using the **Aptos CLI** and developed in **VS Code**.  
 The project is configured for **Aptos Devnet** and is intended for learning, development, and experimentation with the Move language.
@@ -269,4 +260,5 @@ Use caution when deploying to production or mainnet.
 
 
 ![alt text](image.png)
+
 
